@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Mechanical Engineering South Elevator Interface</title>
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script>
+	function floorConfirmation() {
+		alert("Your reqeust has been approved! We are taking you to your desired floor.");
+
+	}
+
+	function emergency() {
+		alert("We have alerted 911! We will redirect you to Texas Tech's emergency procedures.");
+		location.href = "http://www.depts.ttu.edu/communications/emergency/procedures.php";
+	}
+
+	function openDoorConfirmation() {
+		alert("Opening Door.....");
+	}
+
+	function closeDoorConfirmation() {
+		alert("Closing Door.....");
+	}
+
+	function alarmNotification() {
+		alert("We have sounded the alarm! Please remain calm as help arrives. ");
+	}
+</script>
+<style>
+	.container {
+		padding-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.navnavbar-nav{
+		display: flex;
+	}
+	.row {
+		padding-top: 50px;
+	}
+	ul {
+		list-style-type: none;
+	}
+	li {
+		list-style-type: none;
+	}
+	.jumbotron {
+		padding-top: 150px;
+		padding-left: 150px;
+		padding-right: 150px;
+		padding-bottom: 150px;
+	}
+</style>
+</head>
+<body>
+<nav class="navbar fixed-top navbar-dark bg-dark">
+	<div class="container">
+	<div class="navbar-header">
+		<li><a href="index.html" class="navbar-brand">Mechanical Engineering South Elevator Interface</a></li>
+	</div>
+	</div>
+</nav>
+
+<div class="container">
+	<div class="row">
+		<div class="jumbotron">
+			<h1>Select what floor you want to go to:</h1>
+			<br>
+			<button type = "button" class = "btn btn-primary btn-lg" onclick="floorConfirmation()">Second Floor</button>
+			<br>
+			<br>
+			<button type = "button" class = "btn btn-primary btn-lg" onclick="floorConfirmation()">First Floor</button>
+			<br><br>
+			<h1>Emergency Options:</h1>
+			<br>
+			<button type = "button" class = "btn btn-primary btn-lg" onclick ="openDoorConfirmation()">Open Door</button>
+			<button type = "button" class = "btn btn-danger btn-lg" onclick = "closeDoorConfirmation()" >Close Door</button>
+			<button type = "button" class = "btn btn-warning btn-lg" onclick="emergency()">Contact Help</button>
+			<button type = "button" class = "btn btn-danger btn-lg" onclick = "alarmNotification()">Alarm</button>
+ 		</div>
+	</div>
+</div>
+<div>
+</div>
+
+</body>
+</html>
