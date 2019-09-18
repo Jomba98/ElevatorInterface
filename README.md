@@ -17,6 +17,6 @@ Whenever I use an elevator, I use it to select a floor, close the door, open the
 
 Here is the touchscreen interface and a preview. 
 
-![](elevatorFirstFloor.gif)
+![](Demo.gif)
 
 https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html
