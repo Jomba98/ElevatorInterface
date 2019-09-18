@@ -2,9 +2,9 @@
 
 The elevator I choose is located on campus. It is the Mechanical Engineering South elevator. 
 
-![](inside.PNG)
+![](outside.PNG)
 
-<img src = "https://github.com/Jomba98/ElevatorInterface/IMG_0865.JPG" width = "48">
+![](inside.PNG)
 
 ![](Elevator.gif)
 
