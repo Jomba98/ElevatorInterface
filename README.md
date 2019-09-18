@@ -22,7 +22,7 @@ Whenever I use an elevator, I use it to select a floor, close the door, open the
 ![](sketch.PNG)
 
 
-Here is the touchscreen interface and a preview. The touchscreen interface is being run with bootstrap, so it should be compatible to any tablet device such as an iPad. The interface contains a header for determining which floor to select as well as another section for emergency buttons. The emergency buttons are color coded so that when the user begins to select a button, the color should tip them off. For example, the alarm button is coded in red, so the user can come to the conclusion that the button is only used for dangerous situations.  
+Here is the touchscreen interface and a preview. The touchscreen interface is being run with Bootstrap, so it should be compatible to any tablet device such as an iPad. The interface contains a header for determining which floor to select as well as another section for emergency buttons. The emergency buttons are color coded so that when the user begins to select a button, the color should tip them off. For example, the alarm button is coded in red, so the user can come to the conclusion that the button is only used for dangerous situations.  
 
 ![](Demo.gif)
 
