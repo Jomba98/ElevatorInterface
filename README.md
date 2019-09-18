@@ -22,4 +22,4 @@ Here is the touchscreen interface and a preview. The touchscreen interface is be
 
 ![](Demo.gif)
 
-(https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html)
+[](https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html)
