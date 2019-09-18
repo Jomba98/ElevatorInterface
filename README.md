@@ -19,4 +19,4 @@ Here is the touchscreen interface and a preview.
 
 ![](Demo.gif)
 
-https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html/
+https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html
