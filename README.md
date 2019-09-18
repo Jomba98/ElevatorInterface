@@ -15,6 +15,6 @@ Whenever I use an elevator, I use it to select a floor, close the door, open the
 ![](sketch.PNG)
 
 
-Here is the touchscreen interface. 
+Here is the touchscreen interface and a preview. 
 
 https://Jomba98.github.io/ElevatorInterface/touchscreenInterface.html
