@@ -1,6 +1,10 @@
 # Elevator Interface
 
+Here is the link to my presentation: https://Jomba98.github.io/ElevatorInterface
 
+Here is the link to my GitHub repositiory: https://github.com/Jomba98/ElevatorInterface
+
+A demo of the interface is located below. 
 
 
 The elevator I choose is located on campus. It is the Mechanical Engineering South elevator. 
